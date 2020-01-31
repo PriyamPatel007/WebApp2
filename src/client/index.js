@@ -6,8 +6,6 @@ class App extends Component {
   render() {
     return <div>
       <Game />
-      <Game />
-      <Game />
     </div>;
   }
 }
